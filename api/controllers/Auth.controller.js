@@ -1,4 +1,4 @@
-import React from "react";
+
 import errorHandler from "../utils/Error.js";
 import User from "../modules/User.module.js";
 import bcrypt from "bcryptjs";

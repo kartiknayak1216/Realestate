@@ -1,4 +1,4 @@
-// Desc: About page
+
 import React from "react";
 
 export default function About() {
